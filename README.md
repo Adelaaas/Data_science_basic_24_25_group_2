@@ -24,5 +24,5 @@
 [1] [Контест на Python 1](https://contest.yandex.ru/contest/69604/enter/?retPage=) \
 [2] [Контест на NumPy](https://contest.yandex.ru/contest/70745/enter/?retPage=)\
 [3] [Контест на Pandas](https://contest.yandex.ru/contest/71279/enter/?retPage=)\
-[4] [Домашнее задание по визуализации и EDA](https://github.com/Adelaaas/Data_science_basic_24_25_group_2/tree/main/home_work_EDA)
+[4] [Домашнее задание по визуализации и EDA](https://github.com/Adelaaas/Data_science_basic_24_25_group_2/tree/main/home_work_EDA) \
 [5] [Домашнее задание по регрессии](https://github.com/Adelaaas/Data_science_basic_24_25_group_2/tree/main/home_work_lin_reg)
